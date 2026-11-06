@@ -1,5 +1,12 @@
 # Application of NLP Techniques for Automated Analysis of 5G Network Logs
 
+## Prototype Demonstration
+
+The prototype demonstrates the application of the developed approach to 5G network log analysis and anomaly detection.
+
+**Demo Video:** [Watch the Prototype Demonstration](https://youtu.be/5sgNzFvBKyQ)
+
+
 ## Overview
 
 This project investigates the application of Natural Language Processing (NLP) techniques for the automated analysis and anomaly detection of 5G network logs.
